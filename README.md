@@ -4,7 +4,7 @@
 
 Para correr redis en tu maquina local instala Docker, luego utilizando el Dockerfile que esta dentro de esta carpeta ejecuta los siguientes comando:
 
-* docker build . -t redis-tutoria
+* docker build . -t redis-tutorial
 * docker run -d redis-tutorial
 
 Comprueba que tu instancia este corriendo encontrandola en la lista de contenedores corriendo:
